@@ -2,6 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: styleguide-validation
+  links:
+    - url: https://github.com/pcoppens/backstage
+      title: styleguide-validation Github 
+      icon: dashboard
   tags:
     - java
     - maven-plugin
