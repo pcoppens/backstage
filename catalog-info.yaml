@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: styleguide-validation
+  tags:
+    - java
+    - maven-plugin
+spec:
+  type: library
+  lifecycle: experimental
+  owner: patrice.coppens
