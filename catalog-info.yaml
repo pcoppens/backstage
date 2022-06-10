@@ -11,5 +11,5 @@ metadata:
     - maven-plugin
 spec:
   type: library
-  lifecycle: production
+  lifecycle: experimental
   owner: icc
